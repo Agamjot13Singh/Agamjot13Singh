@@ -19,6 +19,8 @@ Who am I? I am Agamjot Singh, A 14 year old boy who loves to build new websites 
 
 1. I'm currently learning - Java (for school), Dart(Flutter)
 
+2. I'm little experienced with Javascript (Vanilla, React)
+
 2. How to reach me? - Twitter username - agamjot_singh_ https://twitter.com/agamjot_singh_
 
 3. Pronouns - He/Him
